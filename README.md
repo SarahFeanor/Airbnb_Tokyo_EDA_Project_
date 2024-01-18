@@ -78,7 +78,7 @@ Por último, é importante ressaltar que a base de dados utilizada nesta anális
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://media.discordapp.net/attachments/1063559719291199599/1197616517970395248/greater-tokyo-area.png?ex=65bbea4c&is=65a9754c&hm=85e86c942c75d54c9eb478311a6b795ac24a9b313b75afbf60e2c0d770014bf2&=&format=webp&quality=lossless" alt="capa">
+    <img src="https://media.discordapp.net/attachments/1063559719291199599/1197616517483872477/2351281.png?ex=65bbea4c&is=65a9754c&hm=446facc260ea49282d6fbae3bc928a77833e58c7f0ef1882f39ba0ed8ba5fd61&=&format=webp&quality=lossless&width=487&height=468" alt="capa">
   </a> 
-</p>                <p align="center">  <sup> Tóquio — Foto Wikipédia </sup> </p>
+</p>                <p align="center">  <sup> Tóquio — Foto: Nippon.com </sup> </p>
 
