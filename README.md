@@ -7,6 +7,8 @@
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
+[NOTEBOOK DO PROJETO (COLAB)]()
+
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
