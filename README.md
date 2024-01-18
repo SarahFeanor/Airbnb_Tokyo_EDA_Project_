@@ -11,9 +11,9 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
     <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1197549244412866610/download.jpg?ex=65bbaba5&is=65a936a5&hm=b246b9064e94fb5ab1fa41442813323be300256511105259f14aaaf6ded445f0&" alt="capa">
-  </a>
-</p>
-
+  </a> 
+</p>                <p align="center">  <sup> Baía de Tóquio na ponte do arco-íris — Foto de sepavone </sup> </p>
+                          
 ## Visão Geral do Projeto 
 
 O **Airbnb**, criado em **2008** por dois designers, cresceu de uma ideia modesta para uma plataforma global conectando milhões de anfitriões e viajantes. Oferece acomodações únicas e experiências autênticas, desafiando as normas hoteleiras. Até **2018**, recebeu mais de **300 milhões de viajantes**, estabelecendo-se como uma força na indústria de hospedagem. O **Airbnb** promove transparência e democratização dos dados, exemplificado pelo portal [Inside Airbnb](http://insideairbnb.com/get-the-data/), que fornece amplo acesso a dados para análise na área de Ciência de Dados.
