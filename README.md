@@ -16,9 +16,9 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
                           
 ## Visão Geral do Projeto 
 
-O **Airbnb**, criado em **2008** por dois designers, cresceu de uma ideia modesta para uma plataforma global conectando milhões de anfitriões e viajantes. Oferece acomodações únicas e experiências autênticas, desafiando as normas hoteleiras. Até **2018**, recebeu mais de **300 milhões de viajantes**, estabelecendo-se como uma força na indústria de hospedagem. O **Airbnb** promove transparência e democratização dos dados, exemplificado pelo portal [Inside Airbnb](http://insideairbnb.com/get-the-data/), que fornece amplo acesso a dados para análise na área de Ciência de Dados.
-
 ⛩️ **Neste notebook**, direcionaremos nossa análise para os dados concernentes à cidade de **Tokyo**, no Japão. Através dessa exploração, visamos extrair percepções e conhecimentos a partir dos dados brutos, mergulhando nas informações para desvendar aspectos relevantes da dinâmica do mercado de hospedagem da cidade.
+
+O **Airbnb**, criado em **2008** por dois designers, cresceu de uma ideia modesta para uma plataforma global conectando milhões de anfitriões e viajantes. Oferece acomodações únicas e experiências autênticas, desafiando as normas hoteleiras. Até **2018**, recebeu mais de **300 milhões de viajantes**, estabelecendo-se como uma força na indústria de hospedagem. O **Airbnb** promove transparência e democratização dos dados, exemplificado pelo portal [Inside Airbnb](http://insideairbnb.com/get-the-data/), que fornece amplo acesso a dados para análise na área de Ciência de Dados.
 
 O **projeto** visa conduzir uma análise exploratória dos dados disponibilizados pelo [Inside Airbnb](http://insideairbnb.com/get-the-data/). Através dessa análise, **buscamos** identificar informações significativas e potenciais padrões, a fim de obter conclusões esclarecedoras sobre a utilização do aplicativo hoteleiro. As descobertas alcançadas têm o potencial de oferecer **insights valiosos** para aqueles que têm interesse em visitar o destino em questão.
 
