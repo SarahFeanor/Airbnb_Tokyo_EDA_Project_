@@ -26,7 +26,7 @@ O **projeto** visa conduzir uma análise exploratória dos dados disponibilizado
 
 O projeto de Análise explorátoria do Airbnb de **Tokyo** tem como base os dados retirados da plataforma **Iside Airbnb**: 
 
-- [Tabela Tokyo]()
+- [Tabela Tokyo](https://github.com/SarahFeanor/Airbnb_Tokyo_EDA_Project_/blob/main/listings.csv)
   
 **Dicionário das variáveis**
 
