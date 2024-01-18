@@ -52,10 +52,17 @@ O projeto de Análise explorátoria do Airbnb de **Tokyo** tem como base os dado
 Concluímos que existem aspectos importantes a serem considerados na qualidade dos dados, incluindo a presença de **valores ausentes** e **outliers**. 
 Isso nos levou a reconhecer que mesmo um conjunto de dados relativamente compacto exige uma avaliação criteriosa para validar ou rejeitar as sugestões geradas pelo sistema, e também para fazer ajustes que garantam a obtenção de um conjunto de dados mais autêntico e confiável.
 
+
 Além disso, uma tendência intrigante foi identificada entre os habitantes de Tóquio e suas escolhas no Airbnb.
 
 - Mais de 50% dos usuários que foram analisados oferecem quartos privados para locação, enquanto apenas 1% oferece opções de hospedagem em hotéis.
 - Observei que o número mínimo de noites alugadas foi de apenas uma noite, com uma média aproximada de 3,5 dias por reserva.
+
+<p align="center">
+  <a href="https://github.com/SarahFeanor?tab=repositories">
+    <img src="https://media.discordapp.net/attachments/1063559719291199599/1197616523846631424/800px-Tokyo_special_wards_map.svg.png?ex=65bbea4d&is=65a9754d&hm=b56b3c371d7d75ff1f6dfeb16ee8feb0b8d84ca31dfe146adb0c8846babce9af&=&format=webp&quality=lossless&width=515&height=468" alt="capa">
+  </a> 
+</p>                <p align="center">  <sup> Distritos/Cidades de Tóquio — Foto Wikipédia </sup> </p>
   
 Destaca-se também que os preços variam amplamente:
 
@@ -66,4 +73,12 @@ Destaca-se também que os preços variam amplamente:
 - 💴 **¥46.279** (cerca de **R$ 1.577,29**) no distrito de **Taito**, que tende a ser menos densamente povoado em comparação com algumas outras partes da cidade.
 
 Por último, é importante ressaltar que a base de dados utilizada nesta análise é uma versão resumida, desenvolvida para atender ao escopo proposto neste projeto como uma abordagem inicial. Para investigações mais aprofundadas, é altamente recomendado utilizar a versão completa do conjunto de dados, incluindo todos os atributos disponíveis. Isso permitirá uma análise mais completa e insights ainda mais precisos sobre as dinâmicas do mercado de aluguel por temporada em Tóquio.
+
+
+
+<p align="center">
+  <a href="https://github.com/SarahFeanor?tab=repositories">
+    <img src="https://media.discordapp.net/attachments/1063559719291199599/1197616517970395248/greater-tokyo-area.png?ex=65bbea4c&is=65a9754c&hm=85e86c942c75d54c9eb478311a6b795ac24a9b313b75afbf60e2c0d770014bf2&=&format=webp&quality=lossless" alt="capa">
+  </a> 
+</p>                <p align="center">  <sup> Tóquio — Foto Wikipédia </sup> </p>
 
