@@ -5,9 +5,9 @@
 
 #  Projeto - Análise dos Dados do Airbnb - Tokyo 🗼
 
-Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
+[NOTEBOOK DO PROJETO (COLAB)](https://github.com/SarahFeanor/Airbnb_Tokyo_EDA_Project_/blob/main/An%C3%A1lise_dos_Dados_do_Airbnb_em_Tokyo.ipynb)
 
-[NOTEBOOK DO PROJETO (COLAB)]()
+Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
 
 <p align="center">
