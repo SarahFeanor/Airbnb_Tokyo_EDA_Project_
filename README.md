@@ -52,7 +52,6 @@ O projeto de Análise explorátoria do Airbnb de **Tokyo** tem como base os dado
 Concluímos que existem aspectos importantes a serem considerados na qualidade dos dados, incluindo a presença de **valores ausentes** e **outliers**. 
 Isso nos levou a reconhecer que mesmo um conjunto de dados relativamente compacto exige uma avaliação criteriosa para validar ou rejeitar as sugestões geradas pelo sistema, e também para fazer ajustes que garantam a obtenção de um conjunto de dados mais autêntico e confiável.
 
-
 Além disso, uma tendência intrigante foi identificada entre os habitantes de Tóquio e suas escolhas no Airbnb.
 
 - Mais de 50% dos usuários que foram analisados oferecem quartos privados para locação, enquanto apenas 1% oferece opções de hospedagem em hotéis.
@@ -64,7 +63,13 @@ Além disso, uma tendência intrigante foi identificada entre os habitantes de T
   </a> 
 </p>                <p align="center">  <sup> Distritos/Cidades de Tóquio — Foto Wikipédia </sup> </p>
   
-Destaca-se também que os preços variam amplamente:
+Os preços variam amplamente:
+
+- Os aluguéis de imóveis no Airbnb seguem a tendência de serem mais caros nos distritos centrais, como **Shinjuku**, **Minato**, **Shibuya** e **Chiyoda**, devido à alta demanda turística. Turistas, principais usuários do Airbnb, mostram disposição para pagar mais por comodidades e acesso a atrações nessas áreas.
+
+- Por outro lado, distritos periféricos como **Arakawa**, **Edogawa** e **Ota** oferecem opções mais acessíveis, uma vez que são menos procurados pelos turistas, sendo localizados em áreas residenciais.
+
+- A análise também destaca uma variação significativa nos preços dentro de cada distrito, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
 
 ### **Preço mínimo**: 
 - 💴 **¥1.500** (equivalente a **R$ 51,12**) em **Edogawa**, um distrito que possui uma densidade populacional considerável devido à sua proximidade com o centro de Tóquio.
