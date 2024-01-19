@@ -74,10 +74,10 @@ Os preços variam amplamente:
 - A análise também destaca uma variação significativa nos preços dentro de cada distrito, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
 
 ### **Preço mínimo**: 
-- 💴 **¥1.500** (equivalente a **R$ 51,00**) em **Edogawa**, um distrito que possui uma densidade populacional considerável devido à sua proximidade com o centro de Tóquio.
+- 💴 **¥1.500** (equivalente a **R$ 51,00**) em **Edogawa**.
 
 ### **Preço máximo**: 
-- 💴 **¥46.279** (cerca de **R$ 1.573,49**) no distrito de **Taito**, que tende a ser menos densamente povoado em comparação com algumas outras partes da cidade.
+- 💴 **¥46.279** (cerca de **R$ 1.573,49**) no distrito de **Taito**. 
 
 ### A média de preços em Tokyo
 - 💴 **¥16171.54** (cerca de**R$ 549,83**)
