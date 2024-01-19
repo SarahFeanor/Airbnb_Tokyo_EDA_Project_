@@ -82,7 +82,7 @@ Os preços variam amplamente:
 ### A média de preços em Tokyo
 - 💴 **¥16171.54** (cerca de**R$ 549,83**)
   
-Por último, é importante ressaltar que a base de dados utilizada nesta análise é uma versão resumida, desenvolvida para atender ao escopo proposto neste projeto como uma abordagem inicial. Para investigações mais aprofundadas, é altamente recomendado utilizar a versão completa do conjunto de dados, incluindo todos os atributos disponíveis. Isso permitirá uma análise mais completa e insights ainda mais precisos sobre as dinâmicas do mercado de aluguel por temporada em Tóquio.
+Por último, é importante ressaltar que a base de dados utilizada nesta análise é uma versão resumida, desenvolvida para atender ao escopo proposto neste projeto como uma abordagem inicial. Para investigações mais aprofundadas, é altamente recomendado utilizar a versão completa do conjunto de dados, incluindo todos os atributos disponíveis. Isso permitirá uma análise mais completa e insights ainda mais precisos sobre as dinâmicas do mercado de aluguel por temporada em Tóquio..
 
 
 
