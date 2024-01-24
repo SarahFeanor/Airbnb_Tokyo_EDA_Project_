@@ -3,7 +3,7 @@
 <sub> 📂 Projeto - Exploratory data analysis - Sarah F. Rezende
 
 
-#  Projeto - Análise dos Dados do Airbnb - Tokyo 🗼
+#  Projeto - Análise dos Dados do Airbnb - Tokyo 
 
 [PROJETO (COLAB)](https://github.com/SarahFeanor/Airbnb_Tokyo_EDA_Project_/blob/main/An%C3%A1lise_dos_Dados_do_Airbnb_em_Tokyo.ipynb)
 
